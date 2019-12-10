@@ -43,10 +43,10 @@ if (choice == "paper" and pc == "rock"):
 if (choice == "rock" and pc == "paper"):
     print ('\033[1;31mPaper covers rock\033[1;m')
     
-if (choice == "scissors" and pc == "paper"):
-    print ('\033[1;32mScissors cuts Paper\033[1;m')
-if (choice == "Paper" and pc == "scissors"):
-    print ('\033[1;31mScissors cuts Paper\033[1;m')
+if (choice == "paper" and pc == "spock"):
+    print ('\033[1;32mPaper disproves Spock\033[1;m')
+if (choice == "spock" and pc == "paper"):
+    print ('\033[1;31mPaper disproves Spock\033[1;m')
 
 if (choice == "paper" and pc == "paper"):
     print ('\033[1;33mIt is a Tie\033[1;m')
