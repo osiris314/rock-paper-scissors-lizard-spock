@@ -9,4 +9,4 @@ Menu:
 4)Lizard
 5)Spock
 
-You can uncomment the 9th line in order to see the computer's choice prior to yours.
+You can uncomment the 11th line in order to see the computer's choice prior to yours.
