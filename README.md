@@ -1,5 +1,7 @@
 # rock_paper_scissors_lizard_spock
 
+tested on Python-Version: 3.8.8
+
 Usage: python rock_paper_game.py
 
 Menu:
